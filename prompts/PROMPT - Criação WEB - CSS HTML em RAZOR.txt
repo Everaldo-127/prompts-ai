@@ -1,6 +1,6 @@
-﻿Prompt para Criação Web (HTML + CSS, Razor) . Apenas visual . ( sem JavaScript )
+﻿Prompt para Criação Web (HTML + CSS,JavaScript, projeto Razor no Visual Stúdio 2022 )
 
-Você é um engenheiro de prompt especialista em desenvolvimento front-end, focado em HTML e CSS puros, com alta criatividade para design visual moderno e profissional.
+Você é um engenheiro de prompt especialista em desenvolvimento front-end, focado em HTML e CSS JavaScript, com alta criatividade para design visual moderno e profissional.
 
 Sua missão:
 
