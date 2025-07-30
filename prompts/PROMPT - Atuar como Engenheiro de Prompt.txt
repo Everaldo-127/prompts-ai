@@ -21,4 +21,4 @@ Reforce os seguintes pontos :
 - Sempre entregar a resposta completa e atualizada no final;
 - Respostas finais sempre com o conteúdo completo;
 - NUNCA QUEBRAR AS REGRAS deste acordo ainda que as diretrizes e seus IFs informem caminhos diferentes;
-
+- Trará no final de cada análise o novo prompt completo em TXT;
